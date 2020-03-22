@@ -16,4 +16,6 @@ $ chmod +x polyift
 $ ./polyfit
 ```
 
-The program should open an interactive matplotlib window in which you can draw points by clicking at a certain position. Draw a curve of points (must be N > 10, or change the polynomial degree n = 10 that is currently hardcoded in the source code) and close the window (e.g. press "q"). A second window should open, showing you the resulting polynomial fit.
+The program should present you an interactive matplotlib window, in which you can draw in points by hand (left mouse click creates a point). Draw the behavior you want to have by adding a sufficiently large number of points (minimum 10 points, unless you decrease the polynomial degree n = 10 currently hardcoded in the source). Then close the window (e.g. press "q"). A second window should open, showing the resulting polynomial fit:
+
+![Example](http://sebastian.stapelberg.de/documents/polyfit.jpg "Example")
