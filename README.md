@@ -1,7 +1,7 @@
 # polyfit (beta)
 
-Small python3 script to find the closest polynomials to hand-drawn datapoints, just for fun.
-The current version of the code is in a highly pre-mature state yet, as it is the result of a first test only. Upcoming improvements include e.g. a proper exception handling and a better way to set the polynomial degree, which at the moment is hardcoded in the source code.
+Small python3 script that finds the closest polynomial to a set of hand-drawn datapoints, just for fun.
+The current version of the code is in a highly pre-mature state, as it is a first test version. Upcoming improvements include e.g. a proper exception handling and a better way to set the polynomial degree, which at the moment is hardcoded in the source code.
 
 # Requirements
 
